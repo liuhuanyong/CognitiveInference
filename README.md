@@ -82,3 +82,14 @@ CognitiveInference，认知推理项目，常识知识库、常识推理与常�
 |Multple Tasks  | GLUE.  | - | - |[点击查看](https://glueBechmark.com/tasks.) |
 |Multple Tasks  | DNC.  | Poliak et al., 2018a | 570K |[点击查看](https://github.com/decompositional-semantics-initiative/DNC.) |
 |Multple Tasks  | SuperGLUE.  | - | - |[点击查看](https://super.glueBechmark.com/.) |
+
+# 关于作者
+
+刘焕勇， Liu Huanyong，2017年硕士毕业，目前就职于中国科学院软件研究所，专注金融、情报两大领域，从事事件抽取、事件演化、情感分析、事理（知识）图谱、常识推理、语言资源构建与应用等研发工作。主持研发自然语言处理技术开放平台数地工场、大规模实时事理知识学习系统学迹、全行业因果链查询与溯源项目寻链系统，并在智能金融、智能情报落地中负责实施了多个项目。致力于面向中文处理的基础知识库建设与理论技术开源共享，目前累计对外开放自然语言处理实践项目六十余个，在openkg开放知识图谱联盟中开放工业应用知识库七类，主笔数地工场技术类系列文章二十余篇。
+
+如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：        
+1、我的自然语言处理开源项目：https://liuhuanyong.github.io     
+2、我的csdn技术博客：https://blog.csdn.net/lhy2014    
+3、我的联系方式: 刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com.    
+4、我的共享知识库项目：刘焕勇，事理类知识库数据集，http://www.openkg.cn/organization/datahorizon.   
+5、我的工业项目：刘焕勇，以事理为核心的金融情报探索：https://datahorizon.cn.         
