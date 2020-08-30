@@ -1,5 +1,10 @@
-# CommonSenseInference
+# CognitiveInference
 CognitiveInference，认知推理项目，常识知识库、常识推理与常识推理评估的系统项目
+
+
+# 项目介绍
+
+
 
 # 已有常识知识库项目资源 
 
@@ -33,6 +38,7 @@ CognitiveInference，认知推理项目，常识知识库、常识推理与常�
 | 常识知识库  | 常识知识库  | LocatedNear  | [点击查看](https://github.com/adapt-sjtu/commonsense-locatednear) |
 | 常识知识库  | 常识知识库  | ATOMIC  | [点击查看](https://homes.cs.washington.edu/~msap/atomic/) |
 | 常识知识库  | 常识知识库  | ASER  | [点击查看](https://hkustknowcomp.github.io/ASER/) |
+| 常识知识库  | 常识知识库  | 学迹实时事理系统  | [点击查看](https://xueji.datahorizon.cn/) |
 
 # 常识推理评测项目资源
 
